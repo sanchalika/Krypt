@@ -1,4 +1,11 @@
 # Krypt - Web 3.0 Blockchain Application
+
+### How to run 
+
+---
+Clone the following repository and install node modules inside the folder and go to http://localhost:3000/ 
+---
+
 ![Krypt](https://github.com/sanchalika/WEB-3.0/blob/master/Screenshot%202022-03-11%20190916.png)
 ![Krypt](https://github.com/sanchalika/WEB-3.0/blob/master/Screenshot%202022-03-11%20190942.png)
 ![Krypt](https://github.com/sanchalika/WEB-3.0/blob/master/Screenshot%202022-03-11%20191006.png)
@@ -10,4 +17,4 @@ ethereum. On the transaction page the user can find the details of all the lates
 clicking the transactions the user will be redirected to ropsten transaction history page.
 
 
-
+---
